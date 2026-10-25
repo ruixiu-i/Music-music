@@ -1,0 +1,31 @@
+SQSHINDEX1	path	bytes	rate	audio	title	artist	album	quality	lyrkind	id	src	track	disc
+icy-robin-dances.sqsh	1527190	48000	1521520	505	Arctic Monkeys		high	line	428d22478e83	f235e465c0355c72	1	1
+hidden-heron-sails.sqsh	1111896	48000	1103737	I Wanna Be Yours	Arctic Monkeys		high	word	7f3ca71b4850	0721c164b2249120	1	1
+lunar-stone-dances.sqsh	1497488	48000	1488339	Let Go	Ark Patrol, Veronika Redd		high	word	f34116343123	9fdef6c793e86fb5	1	1
+lazy-thunder-bounces.sqsh	1474139	48000	1467540	The Struggle	Blacklite District		high	line	efa1008c5295	eb8da1c12e3b17ec	1	1
+fizzy-galaxy-twirls.sqsh	1671668	48000	1666264	I'm God	Clams Casino, Imogen Heap		high	line	056fc79a5df7	c7bce71c4c11c757	1	1
+mellow-kite-grins.sqsh	963577	48000	955474	End of Beginning	Djo		high	word	92c6fdb7401e	47cb46dc78ee72f2	1	1
+cosmic-tulip-sings.sqsh	943018	48000	934330	Mama's Boy	Dominic Fike		high	word	3a9b15d39bca	0d1fab196e0bad49	1	1
+jazzy-moon-wanders.sqsh	1410666	48000	1402276	Shape of You	Ed Sheeran		high	line	e7d91ed74aa1	b7ac16f31fe6e01a	1	1
+jolly-comet-runs.sqsh	1184616	48000	1178400	Bonus Track	Falling Down		high	line	39584a9db307	606235f25f5161ea	1	1
+calm-dolphin-thinks.sqsh	814736	48000	809143	Below the Surface	Griffinilla		high	line	97dbac0d1ee0	711804cf3f4a2207	1	1
+azure-puffin-sings.sqsh	1425604	48000	1419070	Join Us for a Bite	JT Music, Andrea Storm Kaden		high	line	911c016b6c1c	8eeee13d6fdda424	1	1
+dusty-cricket-paints.sqsh	991652	48000	985876	Alien Boy	Oliver Tree		high	line	e0dfe38fa714	b4bd45eaaee868bd	1	1
+neon-cloud-naps.sqsh	883124	48000	873353	Hurt	Oliver Tree		high	word	4515cdd0284e	7ca7bd9f96c7b36e	1	1
+lazy-cloud-thinks.sqsh	819216	48000	810124	Jerk	Oliver Tree		high	word	6bfd62d043d0	d370fc8a66a803cc	1	1
+clever-garden-smiles.sqsh	977356	48000	970819	Life Goes On	Oliver Tree		high	word	fdf7014519d6	a8451028a3fc7530	1	1
+sonic-hawk-waits.sqsh	1379993	48000	1374720	No Surprises	Radiohead		high	line	31ad39acedd0	ceb6d02998fd1821	1	1
+hidden-oak-flies.sqsh	1180603	48000	1175040	Two Birds	Regina Spektor		high	line	2a104d4aa4e5	8e94941f75b7786b	1	1
+polar-rabbit-glows.sqsh	949728	48000	937126	Eyes Blue Like The Atlantic, Pt. 2	Sista Prod, Powfu, Alec Benjamin, Rxseboy, Sarcastic Sounds		high	word	3d881a77ce52	eb223c2ffaa4573b	1	1
+plucky-willow-leaps.sqsh	1199750	48000	1194194	back to friends	sombr		high	line	f538695f9f1a	357b5eb568e47182	1	1
+candid-kite-skates.sqsh	1090645	48000	1084445	Self Aware	Temper City		high	line	8a8fec27547f	d74096d1a96ae8c6	1	1
+modern-forest-dashes.sqsh	1134487	48000	1122274	The Muffin Song (asdfmovie)	The Gregory Brothers, TomSka		high	word	d7e97aa58a9d	ae71e0ae41cf4574	1	1
+brave-oak-waves.sqsh	1055319	48000	1046368	It's Been So Long	The Living Tombstone		high	word	b8d6d89e80cf	6cc7b35503aca6fd	1	1
+electric-canyon-grins.sqsh	1398469	48000	1385360	My Ordinary Life	The Living Tombstone		high	word	73503250e7dc	cd4d4d6d24bb2b60	1	1
+lively-valley-paints.sqsh	1683562	48000	1672454	I Can't Fix You	The Living Tombstone, Crusher-P		high	word	a37db3882b96	4a33eec2eadc85af	1	1
+vivid-tulip-marches.sqsh	1172951	48000	1162658	Discord	The Living Tombstone, Eurobeat Brony		high	word	058408adbf66	dd046ff235f9a505	1	1
+sleepy-planet-rolls.sqsh	1209558	48000	1200275	Blinding Lights	The Weeknd		high	word	eb474d1b8431	f37c78d0ec52cd10	1	1
+peppy-willow-waves.sqsh	1390119	48000	1382769	Starboy	The Weeknd, Daft Punk		high	line	b35c1f508116	e83fa1a05bd3b32b	1	1
+crimson-shadow-builds.sqsh	1185980	48000	1175520	Heathens	Twenty One Pilots		high	word	543f15b4e0d9	ab1f020402b84132	1	1
+clever-rabbit-swims.sqsh	1298955	48000	1287040	Ride	Twenty One Pilots		high	word	fc863c1179ca	7121fdfc6b4a04a7	1	1
+young-meteor-shines.sqsh	1221437	48000	1214000	Stressed Out	Twenty One Pilots		high	line	b76b0138f6a9	baed3fbc7c2e99ea	1	1
